@@ -1,1 +1,8 @@
-
+{
+  "areas": [
+    "Bioinformatics",
+    "AI",
+    "Computational Biology",
+    "Precision Medicine"
+  ]
+}
