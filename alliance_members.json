@@ -1,0 +1,6 @@
+[
+  {"name": "Alice Johnson", "areas": ["Bioinformatics", "AI"]},
+  {"name": "Bob Smith", "areas": ["AI", "Precision Medicine"]},
+  {"name": "Clara Martinez", "areas": ["Computational Biology"]},
+  {"name": "David Lee", "areas": ["Precision Medicine", "Bioinformatics"]}
+]
