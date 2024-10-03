@@ -1,6 +1,6 @@
 [
-  {"name": "Alice Johnson", "areas": ["Bioinformatics", "AI"]},
-  {"name": "Bob Smith", "areas": ["AI", "Precision Medicine"]},
-  {"name": "Clara Martinez", "areas": ["Computational Biology"]},
-  {"name": "David Lee", "areas": ["Precision Medicine", "Bioinformatics"]}
+  {"id": 1, "name": "Alice Johnson", "areas": ["Bioinformatics", "AI"]},
+  {"id": 2, "name": "Bob Smith", "areas": ["AI", "Precision Medicine"]},
+  {"id": 3, "name": "Clara Martinez", "areas": ["Computational Biology"]},
+  {"id": 4, "name": "David Lee", "areas": ["Precision Medicine", "Bioinformatics"]}
 ]
