@@ -1,1 +1,35 @@
 
+[
+    { "id": "Bioinformatics", "size": 150, "color": "#ff7f0e" },
+    { "id": "AI", "size": 150, "color": "#1f77b4" },
+    { "id": "Computational Biology", "size": 150, "color": "#2ca02c" },
+    { "id": "Precision Medicine", "size": 150, "color": "#d62728" },
+    { "id": "Genomics", "size": 150, "color": "#9467bd" },
+    { "id": "Neuroscience", "size": 150, "color": "#8c564b" },
+    { "id": "Systems Biology", "size": 150, "color": "#e377c2" },
+    { "id": "Machine Learning", "size": 150, "color": "#7f7f7f" },
+    { "id": "Biostatistics", "size": 150, "color": "#bcbd22" },
+    { "id": "Data Science", "size": 150, "color": "#17becf" },
+
+    { "id": "1", "size": 40, "color": "#ffbb78" },
+    { "id": "2", "size": 35, "color": "#aec7e8" },
+    { "id": "3", "size": 50, "color": "#98df8a" },
+    { "id": "4", "size": 45, "color": "#ff9896" },
+    { "id": "5", "size": 42, "color": "#c5b0d5" },
+    { "id": "6", "size": 38, "color": "#c49c94" },
+    { "id": "7", "size": 55, "color": "#f7b6d2" },
+    { "id": "8", "size": 36, "color": "#c7c7c7" },
+    { "id": "9", "size": 47, "color": "#dbdb8d" },
+    { "id": "10", "size": 39, "color": "#9edae5" },
+
+    { "id": "11", "size": 40, "color": "#ffbb78" },
+    { "id": "12", "size": 35, "color": "#aec7e8" },
+    { "id": "13", "size": 50, "color": "#98df8a" },
+    { "id": "14", "size": 45, "color": "#ff9896" },
+    { "id": "15", "size": 42, "color": "#c5b0d5" },
+    { "id": "16", "size": 38, "color": "#c49c94" },
+    { "id": "17", "size": 55, "color": "#f7b6d2" },
+    { "id": "18", "size": 36, "color": "#c7c7c7" },
+    { "id": "19", "size": 47, "color": "#dbdb8d" },
+    { "id": "20", "size": 39, "color": "#9edae5" }
+]
